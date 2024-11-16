@@ -2,15 +2,6 @@
 
 A modern web application for managing church activities, members, and offerings built with Next.js 13 and Firebase.
 
-## Screenshots
-
-![Dashboard new](https://user-images.githubusercontent.com/55434969/220678219-e534bfdd-4db8-442e-850e-aea491a2af5e.png)
-![Members - Add Members](https://user-images.githubusercontent.com/55434969/220678173-d0669040-01a1-439f-98f1-fc2b42822393.png)
-![Members - View Member](https://user-images.githubusercontent.com/55434969/220678191-f593b879-c26f-4452-83f9-2b2af6802141.png)
-![Project - Add Contribution](https://user-images.githubusercontent.com/55434969/220678196-9f97b4b0-25bd-4947-8d78-efd7097ad34b.png)
-![Project - View project](https://user-images.githubusercontent.com/55434969/220678204-27262e57-3540-4b5c-aa7c-16c1de669ac2.png)
-![Welcome](https://user-images.githubusercontent.com/55434969/220678215-6c790a60-bca3-4bfd-8f29-4df3d1c9507b.png)
-
 ## Features
 
 - 📊 Dashboard with key metrics and analytics
